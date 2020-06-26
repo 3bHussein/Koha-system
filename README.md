@@ -24,12 +24,53 @@ or manual way :
     $ mysql -u [uname] -p[pass] [db_to_restore] < [backupfile.sql]
 
     
-# barcord
-    Tools >Label creator > New label batch  
+# barcord creating 
+
+  
+   
+# 1.label Template :
+
+    Tools >Label creator > New  label template 
     
+    ##create label template :
+    in 
+    Template code: Barcode - Avery 5160
+    Template descrip :Barcode
+    units :US inches
+    Page hight :11
+    page width:8.5
+    label width :2.625
+    label hight:1
+    Top page marg :0.5
+    Left page marg :0.187
+    Top text marg :0.4
+    Left text marg :0.25
+    Number of columns:3
+    Number of Row :10
+    Gap between columns:0.125
+    Gap between row 0
+    
+     
     this video for label template:
     
-    https://www.youtube.com/watch?v=Ay3MSLq0fjc&t=357s
+     https://www.youtube.com/watch?v=Ay3MSLq0fjc&t=357s
+     
+# 2.create label Layout
+    Tools >Label creator > New  label layout 
+    
+    ##create layout :
+    in
+    Choose layout type : Barcode/Biblio
+    lis Fields :
+        Data Fields :title
+     Draw guide boxes :checked
+     Text justification:center
+     Font Size :10
+
+
+#  3.Create label 
+    
+     Tools >Label creator > New label batch  
     
     
     
