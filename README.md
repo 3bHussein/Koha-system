@@ -74,7 +74,9 @@ or manual way :
      
      ISBN 10 that a number in Top of barcod
      ISBN 13 that Down barcode  
-    
+     
+      ISSN INTERNATIONAL STANDARD SERIAL NUMBER
+      ISBN INTERNATIONAL STANDARD BOOK NUMBER
     
     
 # Access To library
@@ -95,3 +97,23 @@ or manual way :
     Create Shrotcut
     Share Between PC
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        BARCODE LABELS STICKERS
+        
+        https://egypt.souq.com/eg-en/barcode-labels-stickers-9944898/i/
+        
+        https://egypt.souq.com/eg-en/roll-barcode-thermal-sticker-size-25x38-full-1800-sticker-number-5-rollers-28379725/i/
