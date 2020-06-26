@@ -24,3 +24,30 @@ or manual way :
     $ mysql -u [uname] -p[pass] [db_to_restore] < [backupfile.sql]
 
     
+# barcord
+    Tools >Label creator > New label batch  
+    
+    this video for label template:
+    
+    https://www.youtube.com/watch?v=Ay3MSLq0fjc&t=357s
+    
+    
+    
+# Access To library
+    
+    https://www.youtube.com/watch?v=aaLHrX1fdL8&t=330s
+    
+    https://www.youtube.com/watch?v=d0GkoT897BY
+    
+    
+    
+    
+    
+    
+    
+    
+ # appendix smart Tools
+    Change Panal : Advanced Menu
+    Create Shrotcut
+    Share Between PC
+    
