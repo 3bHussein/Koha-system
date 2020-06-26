@@ -79,7 +79,7 @@ or manual way :
       ISBN INTERNATIONAL STANDARD BOOK NUMBER
     
     
-  [label_batch_6 (4).pdf](https://github.com/3bHussein/Koha-system/files/4838761/label_batch_6.4.pdf)
+[label_batch_6 (4).pdf](https://github.com/3bHussein/Koha-system/files/4838761/label_batch_6.4.pdf)
 
 [label_batch_6 (3).pdf](https://github.com/3bHussein/Koha-system/files/4838762/label_batch_6.3.pdf)
     
