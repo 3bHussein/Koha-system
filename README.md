@@ -99,6 +99,8 @@ or manual way :
  # appendix smart Tools
     Change Panal : Advanced Menu
     Create Shrotcut
+    #!/bin/sh
+    google-chrome url
     Share Between PC
     
     
