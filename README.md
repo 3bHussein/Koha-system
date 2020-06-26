@@ -71,6 +71,9 @@ or manual way :
 #  3.Create label 
     
      Tools >Label creator > New label batch  
+     
+     ISBN 10 that a number in Top of barcod
+     ISBN 13 that Down barcode  
     
     
     
